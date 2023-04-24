@@ -1,0 +1,19 @@
+.expense-tracker {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(241, 218, 188);
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  
+  
